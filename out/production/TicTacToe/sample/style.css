@@ -1,0 +1,5 @@
+.button:disabled{
+    -fx-background-color: #ababab;
+    -fx-text-fill: black;
+    -fx-font-size: 34px;
+}
